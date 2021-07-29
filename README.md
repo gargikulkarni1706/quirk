@@ -28,7 +28,7 @@ If you want to fork Quirk, you should fork off of [this commit](https://github.c
 ---
 
 <p align="center">
-<h1 align="center">✨🐙 quirk. </h1>
+<h2 align="center">QUIRK</h2>
 </p>
 <p align="center">
   <a href="https://itunes.apple.com/us/app/quirk-cbt/id1447026451?mt=8">Download iOS</a> • <a href="https://play.google.com/store/apps/details?id=tech.econn.quirk">Download Android</a> • <a href="mailto:humans+github@quirk.fyi">Contact</a> • <a href="https://tinyletter.com/quirk">Newsletter</a>
@@ -78,6 +78,7 @@ Some amazing folks have helped build the Quirk you see today.
 - [@micheleriva](https://github.com/micheleriva) for the Italian translation 🇮🇹
 - [@Jolg42](https://github.com/jolg42) for the French translation 🇫🇷
 - [@Buricescu](https://github.com/Buricescu) for the Romanian translation 🇷🇴
+- [@gargikulkarni1706](https://github.com/gargikulkarni1706) for the changing a few styles from India 
 
 ## Running Locally
 
